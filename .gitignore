@@ -24,6 +24,10 @@ build/
 *.swp
 *.swo
 
+# Cursor agent files
+.agents/
+skills-lock.json
+
 # OS
 .DS_Store
 Thumbs.db
